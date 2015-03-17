@@ -19,5 +19,12 @@
   "dependencies": {
     "aws-sdk": "^2.1.17",
     "string": "^3.0.1"
+  },
+  "devDependencies": {
+    "chai": "^2.1.2",
+    "mocha": "^2.2.1"
+  },
+  "scripts": {
+    "test": "make test"
   }
 }
