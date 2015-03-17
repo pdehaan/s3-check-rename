@@ -16,7 +16,12 @@
     "s3-skipper"
   ],
   "author": "Ing. Jose Manuel Santibañez <jmsv23@gmail.com> (https://github.com/jmsv23)",
-  "license": "MIT",
+  "license": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/brentertz/scapegoat/blob/master/LICENSE-MIT"
+    }
+  ],
   "dependencies": {
     "aws-sdk": "^2.1.17",
     "string": "^3.0.1"
