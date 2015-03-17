@@ -1,6 +1,6 @@
 {
   "name": "s3-check-rename",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Clean the file name check if the name exists in S3 bucket and if the name exists add a index to the name to avoid override the file.",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,8 @@
     "amazon",
     "rename",
     "clean",
-    "check"
+    "check",
+    "s3-skipper"
   ],
   "author": "Ing. Jose Manuel Santibañez <jmsv23@gmail.com> (https://github.com/jmsv23)",
   "license": "MIT",
