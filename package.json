@@ -1,0 +1,23 @@
+{
+  "name": "s3-check-rename",
+  "version": "0.0.0",
+  "description": "Clean the file name check if the name exists in S3 bucket and if the name exists add a index to the name to avoid override the file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "s3",
+    "file",
+    "amazon",
+    "rename",
+    "clean",
+    "check"
+  ],
+  "author": "Ing. Jose Manuel Santibañez <jmsv23@gmail.com> (https://github.com/jmsv23)",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.1.17",
+    "string": "^3.0.1"
+  }
+}
