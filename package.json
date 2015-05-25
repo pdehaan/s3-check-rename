@@ -16,7 +16,7 @@
     "s3-skipper"
   ],
   "author": "Ing. Jose Manuel Santibañez <jmsv23@gmail.com> (https://github.com/jmsv23)",
-  "repo": "jmsv23/s3-check-rename",
+  "repository": "jmsv23/s3-check-rename",
   "license": "MIT",
   "dependencies": {
     "aws-sdk": "^2.1.17",
